@@ -1,4 +1,34 @@
-### Hi there 👋
+# Chris Nellas
+==========================================
+I'm student at university of Macedonia waiting for my graduation. Meanwhile, i'm trying my best to learn better ways to write code, learn new technologies that will help me be better developer. My research interests mainly focused on backend development and design patterns. I also create websites from scratch or using a cms
+
+```
+- 🔭 I’m currently working on a personal web app project
+- 🌱 I’m currently learning java/ spring, angular, tailwindcss, ts and some more.🙃
+- 📫 How to reach me: email📬  chr.nellas@gmail.com
+```
+
+## Languages &amp; tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" max-width= 40px max-height= 40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" max-width= 40px max-height= 40px/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" max-width= 40px max-height= 40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" max-width= 40px max-height= 40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" max-width= 40px max-height= 40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" max-width= 40px max-height= 40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" max-width= 40px max-height= 40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" max-width= 40px max-height= 40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" max-width= 40px max-height= 40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" max-width= 40px max-height= 40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" max-width= 40px max-height= 40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" max-width= 40px max-height= 40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" max-width= 40px max-height= 40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" max-width= 40px max-height= 40px/>
+          
+## stats 
+<img src="https://github-readme-stats.vercel.app/api?username=chrisNellas&show_icons=true&hide=contribs&count_private=true&title_color=04cbf3&text_color=fff00f&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chris Nellas stats">
+
+##Socials
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 <!--
 **ChrisNellas/ChrisNellas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
