@@ -16,6 +16,8 @@
 </section>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=chrisNellas&show_icons=true&hide=contribs&count_private=true&include_all_commits&title_color=04cbf3&text_color=999966&icon_color=007acc&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chris Nellas stats">
+<img src="https://github-readme-stats.vercel.app/api?username=chrisNellas&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&title_color=04cbf3&text_color=999966&icon_color=007acc&bg_color=1c1917" alt="Chris Nellas stats">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chrisNellas&show_icons=true&hide=contribs" alt="Chris Nellas stats">
+<img src="https://github-readme-stats.vercel.app/api?username=chrisNellas&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&title_color=04cbf3&text_color=999966&icon_color=007acc&bg_color=1c1917&hide_border=true" alt="Chris Nellas stats">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chrisNellas&include_all_commits=true&hide=contribs&show_icons=true&title_color=04cbf3&text_color=999966&icon_color=007acc&bg_color=1c1917&hide_border=true" alt="Chris Nellas stats">
