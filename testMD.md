@@ -14,3 +14,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git" title="git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="c" title="c"/>
 </section>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=chrisNellas&show_icons=true&hide=contribs&count_private=true&title_color=04cbf3&text_color=5c00e6&icon_color=007acc&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chris Nellas stats">
