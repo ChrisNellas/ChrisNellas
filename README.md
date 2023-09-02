@@ -3,11 +3,11 @@
 
 I'm student at university of Macedonia waiting for my graduation. Meanwhile, i'm trying my best to learn better ways to write code, learn new technologies that will help me be better developer. My research interests mainly focused on backend development and design patterns. I also create websites from scratch or using a cms
 
-```
+
 - 🔭 I’m currently working on a personal web app project
 - 🌱 I’m currently learning java/ spring, angular, tailwindcss, ts and some more.🙃
 - 📫 How to reach me: email📬  chr.nellas@gmail.com
-```
+
 
 ## Languages &amp; tools
 <section align="left">
@@ -30,8 +30,8 @@ I'm student at university of Macedonia waiting for my graduation. Meanwhile, i'm
 ## stats 
 <img src="https://github-readme-stats.vercel.app/api?username=chrisNellas&show_icons=true&hide=contribs&count_private=true&title_color=04cbf3&text_color=fff00f&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chris Nellas stats">
 
-##Socials
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+## Socials
+<a href="https://www.linkedin.com/in/christos-nellas-61576b1b8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedIn" title="linkedIn"/></a>
 
 <!--
 **ChrisNellas/ChrisNellas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
