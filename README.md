@@ -26,10 +26,10 @@ I'm student at university of Macedonia waiting for my graduation. Meanwhile, i'm
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git" title="git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="c" title="c"/>
 </section>
-          
+<!--          
 ## stats 
 <img src="https://github-readme-stats.vercel.app/api?username=chrisNellas&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&title_color=04cbf3&text_color=999966&icon_color=007acc&bg_color=1c1917&hide_border=true" alt="Chris Nellas stats">
-
+-->
 ## Socials
 <a href="https://www.linkedin.com/in/christos-nellas-61576b1b8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedIn" title="linkedIn"/></a>
 
